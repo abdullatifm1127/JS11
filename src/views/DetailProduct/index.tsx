@@ -1,6 +1,7 @@
 import { ProductType } from "@/types/product.type";
 import styles from "../DetailProduct/detailProduct.module.scss";
 
+
 const DetailProduk = ({ products } : { products: ProductType }) => {
     return (
         <>
